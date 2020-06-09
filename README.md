@@ -1,12 +1,12 @@
 # cartoon-design
-have a look on the website ..link here
-zoo-
+have a look in the website ..link here
+[zoo]-  
 https://ahmazizulhakim.github.io/cartoon-design/zoo/zoo.html
-room-
+   [room]-
 https://ahmazizulhakim.github.io/cartoon-design/room/room.html
-virus-
+    [virus]-
 https://ahmazizulhakim.github.io/cartoon-design/virus/my.html
-beach-
+  [beach]-
 https://ahmazizulhakim.github.io/cartoon-design/beach/beach.html
-school-
+  [school]-
 https://ahmazizulhakim.github.io/cartoon-design/school/school.html
