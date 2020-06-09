@@ -1,0 +1,89 @@
+#a{
+    position: absolute;
+    height: 610px;
+    left: 0px;
+    top: 0px;
+    width: 1350px;
+    filter: brightness(150%);
+    filter: opacity(500%);
+    filter: contrast(100%);
+
+
+}
+
+#b{
+    position: absolute;
+    height: 139px;
+    top: 334px;
+    right: 548px;
+    width: 273px;
+
+    
+}
+
+#c{
+    position: absolute;
+    height: 170px;
+    top: 420px;
+    right: 893px
+    
+}
+
+#d{
+    position: absolute;
+    height: 185px;
+    left: 287px;
+    top: 235px;
+}
+
+#e{
+    position: absolute;
+    height: 132px;
+    top: 463px;
+    left: 845px;
+    
+}
+
+#f{
+    position: absolute;
+    height: 92px;
+    top: 393px;
+    left: 883px;
+    
+}
+#g{
+    position: absolute;
+height: 55px;
+left: 635px;
+top: 370px;
+}
+#h{
+
+    position: absolute;
+    height: 85px;
+    left: 562px;
+    top: 408px;
+    width: 214px;
+}
+
+#i{
+
+    position: absolute;
+    height: 71px;
+    left: 452px;
+    top: 473px;
+}
+#j{
+
+    position: absolute;
+    height: 116px;
+    right: 167px;
+    top: 87px;
+}
+#k{
+
+    position: absolute;
+height: 170px;
+left: 593px;
+top: 299px;
+}    
