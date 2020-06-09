@@ -8,5 +8,5 @@ virus-
 https://ahmazizulhakim.github.io/cartoon-design/virus/my.html
 beach-
 https://ahmazizulhakim.github.io/cartoon-design/beach/beach.html
-
-
+school-
+https://ahmazizulhakim.github.io/cartoon-design/school/school.html
