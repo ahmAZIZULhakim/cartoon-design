@@ -6,3 +6,7 @@ room-
 https://ahmazizulhakim.github.io/cartoon-design/room/room.html
 virus-
 https://ahmazizulhakim.github.io/cartoon-design/virus/my.html
+beach-
+https://ahmazizulhakim.github.io/cartoon-design/beach/beach.html
+
+
