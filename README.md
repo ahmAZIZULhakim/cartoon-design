@@ -14,4 +14,5 @@ https://ahmazizulhakim.github.io/cartoon-design/school/school.html
   https://ahmazizulhakim.github.io/cartoon-design/airport/airport.html
     7.river.--
      https://ahmazizulhakim.github.io/cartoon-design/river/river.html
-    
+    8.stadium----
+    https://ahmazizulhakim.github.io/cartoon-design/cricket/cricket.html
