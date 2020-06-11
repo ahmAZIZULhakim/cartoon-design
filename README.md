@@ -12,3 +12,6 @@ https://ahmazizulhakim.github.io/cartoon-design/beach/beach.html
 https://ahmazizulhakim.github.io/cartoon-design/school/school.html
  6.. airport--
   https://ahmazizulhakim.github.io/cartoon-design/airport/airport.html
+    7.river.--
+     https://ahmazizulhakim.github.io/cartoon-design/river/river.html
+    
